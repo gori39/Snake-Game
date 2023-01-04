@@ -12,5 +12,5 @@ Tools-Java Swing, Java AWT, OOPS, NetBeansIDE.
 
 ## How to run this Project?
 1.first download this project.
-2.open IntelliJ IDEA.
+2.open Eclipse.
 3.Import this project.
